@@ -1,5 +1,7 @@
-# Tableau: Retail-Analysis
+# Tableau: Retail Analysis
 Tableau Visualization of Retail store Sales
+
+![Alt Text](https://github.com/rakshitratan/Retail-Analysis-using-Tableau/blob/master/Retail%20Analysis.jpg)
 
 Visualization follow the below guideline: 
 
